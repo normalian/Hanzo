@@ -1,0 +1,38 @@
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Bot Application1.dll.config
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Bot Application1.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Bot Application1.pdb
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Autofac.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Chronic.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.Bot.Builder.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.Bot.Connector.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Newtonsoft.Json.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.Net.Http.Formatting.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.Web.Http.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.Web.Http.WebHost.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Autofac.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.Bot.Builder.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.Bot.Connector.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\Newtonsoft.Json.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.Net.Http.Formatting.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.Web.Http.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\System.Web.Http.WebHost.xml
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\obj\Debug\Bot Application1.dll
+C:\Users\koshimiz\OneDriveMicrosoft\proj\vs2015\Hanzo\Hanzo\obj\Debug\Bot Application1.pdb
