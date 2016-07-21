@@ -117,11 +117,13 @@ namespace Hanzo
 
             if (!string.IsNullOrEmpty(query))
             {
-                if (query.Equals("login"))
-                {
-                    message = $"[Go to login procedure...]";
-                }
-                else if (query.Equals("logout"))
+                // login process are written in 
+                //if (query.Equals("login"))
+                //{
+                //    message = $"[Go to login procedure...]";
+                //}
+                //else
+                if (query.Equals("logout"))
                 {
                     message = $"You are sucessfully logged out.";
                 }

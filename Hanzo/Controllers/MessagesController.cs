@@ -20,9 +20,17 @@ namespace Hanzo
         /// </summary>
         public async Task<HttpResponseMessage> Post([FromBody]Activity activity)
         {
+            BotData userData = await activity.GetStateClient().BotState.GetUserDataAsync(activity.ChannelId, activity.From.Id);
+            var subscriptionId = userData.GetProperty<string>("SubscriptionId");
+            var accessToken = userData.GetProperty<string>("AccessToken");
+
             if (activity.Type == ActivityTypes.Message)
             {
-                await Conversation.SendAsync(activity, () => new HanzoDialog());
+                // This app use HanzoAuthDialog before 
+                if (string.IsNullOrEmpty(subscriptionId) == false && string.IsNullOrEmpty(accessToken) == false)
+                    await Conversation.SendAsync(activity, () => new HanzoDialog());
+                else
+                    await Conversation.SendAsync(activity, HanzoAuthDialog.MakeDialog);
 
                 /*
                 ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
