@@ -22,8 +22,12 @@ Output
 
 ### How to use?
 
-1. Access to management portal and select Azure AD which you want to get AccessToken
+1. Access to management portal and select Azure AD tenant (such as xxxxxxx.onmicrosoft.com) which you want to get AccessToken
 2. Add a "Web application" to your Azure AD
-3. Add "Windows Azure Service Management" into "permissions to other applications" section. And setup Delegated Permissions
-4. Setup "REPLY URL" as http://<your deplpoyment URL>/Home/Authorized
-5. Setup "Keys" to take "client_secret". This key info is shown only one time.
+3. Add "Windows Azure Service Management" into "permissions to other applications" section. And setup "Delegated Permissions" of "Windows Azure Service Management"
+4. Setup "REPLY URL" as http://"your deplpoyment URL"/Home/Authorized at CONFIGURE tab of your added web application.
+5. Setup "Keys" to take "client_secret" at CONFIGURE tab of your added web application. This key info is shown only one time, and you can use this as "client_secret".
+6. Now you can take tenantId, client_id, client_secret and redirect_uri at CONFIGURE tab of your added web application.
+
+# Proxy
+Now under writing...
