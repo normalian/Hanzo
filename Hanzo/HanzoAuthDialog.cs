@@ -45,12 +45,14 @@ namespace Hanzo
         [Pattern("^\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12}$")]
         public string SubscriptionId;
 
+        // you have to input more than one letter to pass this validate.
         [Pattern("\\w+")]
         public string AccessToken;
 
         public static IForm<AzureAuthProcess> BuildForm()
         {
             return new FormBuilder<AzureAuthProcess>()
+                    //TODO: You should change this message to access your HanzoAuthWeb app to let your users getting AccessToken
                     .Message("Please authrize via Azure Active Directory")
                     .OnCompletion(async (context, state) =>
                     {

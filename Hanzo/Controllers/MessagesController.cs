@@ -26,7 +26,7 @@ namespace Hanzo
 
             if (activity.Type == ActivityTypes.Message)
             {
-                // This app use HanzoAuthDialog before 
+                // TODO: This app use HanzoAuthDialog before setup Subscriptionid and AccessToken. Just after setup them, bot enumlator sometimes mistake here "if" process.
                 if (string.IsNullOrEmpty(subscriptionId) == false && string.IsNullOrEmpty(accessToken) == false)
                     await Conversation.SendAsync(activity, () => new HanzoDialog());
                 else
